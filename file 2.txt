@@ -1,0 +1,4 @@
+Ilmu komputer (bahasa Inggris: Computer Science), Secara umum diartikan sebagai ilmu yang mempelajari baik tentang komputasi, perangkat keras (hardware) maupun perangkat lunak (software). 
+Ilmu komputer mencakup beragam topik yang berkaitan dengan komputer, mulai dari algoritma hingga subyek yang lebih konkret seperti bahasa pemrograman, perangkat lunak dan perangkat keras.
+Sebagai suatu disiplin ilmu, Ilmu Komputer lebih menekankan pada pemrograman komputer, dan rekayasa perangkat lunak (software), sementara teknik komputer lebih cenderung berkaitan dengan 
+hal-hal seperti perangkat keras komputer (hardware). Namun, kedua istilah tersebut sering disalah artikan oleh banyak orang.
