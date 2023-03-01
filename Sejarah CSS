@@ -7,12 +7,4 @@ CSS pertama kali diusulkan oleh Håkon Wium Lie pada 10 Oktober 1994, pada saat 
 
 
 
-<<Cara kerja bahasa pemrograman CSS>>
-CSS bekerja saat sebuah browser membuka Halaman Website ,pada saat itu browser harus menggabungkan konten dokumen dengan gaya informasi dalam halaman sebuah situs. CSS memiliki beberapa langkah cara kerja sebagai berikut:
 
-1. Load HTML, dalam tahap ini browser memuat HTML
-2. Parse HTML, Pada tahap ini terjadi penguraian HTML menjadi Document Object Model (DOM) dan memuat CSS.
-3. Load CSS, pada tahap ini browser memuat tautan seperti gambar atau video lalu CSS dimuatkan dan ditautkan.
-4. Parse CSS, pada tahap ini terjadi penguraian CSS.
-5. Render Tree, Penyeleksian tiap CSS yang akan digunakan ke Document Object Model (DOM)
-D6. isplay, Setelah semua proses diatas berjalan , proses terakhir ialah CSS dan DOM akan membentuk tampilan visual sebuah halaman situs yang tertampil di layar monitor.
