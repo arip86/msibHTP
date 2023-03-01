@@ -1,14 +1,9 @@
 <<Pengertian CSS>>
 CSS merupakan singkatan dari Cascading Style Sheets, CSS digunakan untuk menentukan gaya dari tampilan website yang akan kamu buat seperti tata letak halaman, warna , dan font. Semuanya dapat ditentukan oleh CSS, CSS bertujuan agar website terlihat lebih menarik.
 Pada dasarnya tanpa menggunakan CSS, tampilan website dapat terlihat menarik hanya dengan bahasa HTML namun penggunaan HTML terbukti tidak efektif jika digunakan untuk design tampilan oleh karena itu CSS dan HTML tidak dapat dipisahkan satu sama lain.
+CSS pertama kali diusulkan oleh Håkon Wium Lie pada 10 Oktober 1994, pada saat itu, Lie sedang bekerja dengan Tim Berners-Lee di CERN. beberapa bahasa style sheet lain untuk web diusulkan pada waktu yang hampir bersamaan, dan pada World Wide Web Consortium menghasilkan Rekomendasi W3C CSS (CSS1) pertama yang dirilis pada tahun 1996.
 
-<<Kelebihan bahasa pemrograman CSS>>
 
-1. Bahasa CSS sangat fleksibel digunakan dan nyaman dipandang
-2. Ukuran File CSS cenderung kecil sehingga bandwidth yang dibutuhkan juga kecil
-3. Dokumen CSS dapat dipisah dengan Dokumen HTML sehingga memudahkan pembuat website dalam mengubah atau mengedit file CSS
-4. Satu file CSS dapat digunakan oleh banyak halaman.
-5. Menghadirkan sesuatu yang tidak dapat dilakukan Oleh HTML
 
 <Kekurangan bahasa pemrograman CSS>
 Tampilan Pada browser bisa berbeda beda
