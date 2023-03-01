@@ -1,0 +1,3 @@
+Kegaitan
+1. Install VS Code
+2. Belajar fungsi HTML 
