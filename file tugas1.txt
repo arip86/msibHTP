@@ -1,0 +1,4 @@
+Masuk ke menu "m-Transfer" kemudian pilih Antar Bank.
+Pilih bank yang pernah didaftarkan. Misalnya, jika pernah mendaftarkan bank Mandiri, nama Bank Mandiri akan muncul dalam pilihan.
+Masukkan nominal yang ingin ditrnasfer.
+Tekan tombol "Send" untuk melanjutkan transaksi.
