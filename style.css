@@ -1,4 +1,4 @@
-/* selector tag */
+
 /* bagian header */
 body.header{
     background-color: #E8D2A6;
@@ -22,6 +22,7 @@ body.main{
     background-color:#F9F5E7;
     
 }
+/* selector tag */
 h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -44,7 +45,7 @@ legend.sidebar{
         font-weight: bold;
         font-size: 15px;
 }
-/*  dan class */
+/* class */
 li.sidebar{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 10px;
@@ -65,8 +66,8 @@ p.contact{
 body.footer{
     background-color: #DBA39A;
 }
-/* bagian fieldset dan legend paga sidebar dan contact */
-/* groping css */
+/* bagian fieldset dan legend pada sidebar dan contact */
+/* grouping css */
 fieldset,legend{
     border: 3px groove #A75D5D;
     border-radius: 15px;
