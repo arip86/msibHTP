@@ -1,2 +1,3 @@
 Branch Keirs merupakan branch ke-3 yang dibuat.
 Pada branch ini terdapat file style.css.
+File style.css merupakan file yang berisikan source code css, file ini merupakan file css eksternal.
