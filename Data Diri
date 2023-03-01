@@ -1,0 +1,116 @@
+<style type="text/css">
+     /* css internal adalah yang ada didalam html */
+     /* ini contoh selector tag */
+     
+     fieldset, legend{
+     border: rgb(221, 151, 30) groove 3px;
+     }
+
+</style>
+
+<body>
+     <!-- gambar dan audio -->
+     <fieldset>
+          <legend>
+               <font color="blod" size="5" face="calibri">
+                    Audio
+               </font>
+          </legend>
+          <audio controls>
+               <source src="lagu.mp3" type="audio/mpeg">
+          </audio>
+     </fieldset>
+     
+     <!-- Link -->
+     <fieldset> 
+          <legend> 
+               <font color="blod" size="5" face="calibri">
+                    SOSIAL MEDIA
+               </font>
+          </legend>
+          <ul>
+               <li><a href="https://politap.ac.id/">Politap</a></li>
+               <li><a href="">Facebook</a></li>
+               <li><a href="https://github.com/">Github</a></li>
+               <li><a href="https://www.instagram.com/anggita_afrelia?r=nametag">Instagram</a></li>
+          </ul>
+
+     </fieldset>
+
+     <!-- Membuat Form -->
+     <fieldset> 
+          <legend>
+               <font color="blod" size="5" face="calibri">
+                    MEMBUAT FORM
+               </font>
+          </legend>
+
+          <form action="">
+                    <table border="0" align="center" border="6" cellpadding="5" cellspacing="0" widht="15%">
+                         <thead>
+                              <tr bgcolor="greenyellow">
+                                   <th colspan="5">Form Register Produk</th>
+                              </tr>
+                         </thead>
+                         <!-- tfoot walaupun kodingan ada ditengah tetapi tetap tampil di bawah -->
+                         <tfoot>
+                              <th colspan="5" bgcolor="greenyellow">
+                                   <input type="submit">
+                                   <button type="button">Batal</button>
+                                   <!-- <button type="submit">Simpan</button> -->
+                              </th>
+                         </tfoot>
+                         <tbody>
+     
+                              <tr>
+                                   <td width="20%">
+                                        <label for="">Nama Produk</label>
+                                   </td>
+                                   <td>
+                                        <input type="text" name="nama" value=""
+                                        placeholder="Tuliskan Produk Anda" width="50">
+                                   </td>
+                              </tr>
+                              
+                              <tr>
+                                   <td><label for="">Jenis Produk</label></td>
+                                   <td>
+                                        <select name="produk" id="" width="100">
+                                             <option value="" selected disabled>--- Kategori Produk ---</option>
+                                             <option value="produk_a">Produk 1</option>
+                                             <option value="produk_b">Produk 2</option>
+                                             <option value="produk_c">Produk 3</option>
+                                             <option value="produk_d">Produk 4</option>
+                                        </select>
+                                   </td>
+                              </tr>
+     
+                              <tr>
+                                   <td><label for="">Harga</label></td>
+                                   <td>
+                                        <input type="text" name="harga" value="" placeholder="Masukkan Harga Produk">
+                                   </td>
+                              </tr>
+     
+                              <tr>
+                                   <td><label for="">Stok</label></td>
+                                   <td>
+                                        <input type="number" name="stok" width="100" size="50" value="" placeholder="Stok Produkmu...">
+                                   </td>
+                              </tr>
+     
+                              <tr>
+                                   <td><label for="">Foto</label></td>
+                                   <td>
+                                        <input type="file" name="foto" width="100" accept="image/jpeg,image/png">
+                                   </td>
+                              </tr>
+               
+                         </tbody>
+                    </table>
+          </form>
+     </fieldset>
+     
+
+ </body>
+     
