@@ -1,0 +1,15 @@
+arrows: {
+							enable:true,
+							tmp:"<div class=\"tp-title-wrap\">  	<div class=\"tp-arr-imgholder\"></div> </div>",
+							style:"zeus",
+							hide_onmobile:true,
+							hide_under:900,
+							hide_onleave:true,
+							hide_delay_mobile:1020,
+							left: {
+
+							},
+							right: {
+
+							}
+						}
