@@ -1,0 +1,5 @@
+buat branch minimal 3 
+didalam branch minimal buat 2 file per branch
+edit file tersebut 
+lakukan forking pada akun https://github.com/arip86/msibHTP
+kirim link repository ke LMS
