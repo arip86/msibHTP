@@ -5,10 +5,7 @@ CSS pertama kali diusulkan oleh Håkon Wium Lie pada 10 Oktober 1994, pada saat 
 
 
 
-<Kekurangan bahasa pemrograman CSS>
-Tampilan Pada browser bisa berbeda beda
-Kadang ada beberapa browser lawas yang tidak support CSS
-Dibutuhkan waktu yang cenderung lama untuk mendesain dan membuat CSS.
+
 
 <<Cara kerja bahasa pemrograman CSS>>
 CSS bekerja saat sebuah browser membuka Halaman Website ,pada saat itu browser harus menggabungkan konten dokumen dengan gaya informasi dalam halaman sebuah situs. CSS memiliki beberapa langkah cara kerja sebagai berikut:
