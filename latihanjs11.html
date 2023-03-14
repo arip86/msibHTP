@@ -1,0 +1,46 @@
+<script>
+    //array of object
+    // atau array didalam array
+    // atau arraya yang menyimpan array
+
+    let p1 = {nama:"Arip", nilai:80};
+    let p2 = {nama:"Ali", nilai:81};
+    let p3 = {nama:"Aldi", nilai:82};
+    let p4 = {nama:"Ani", nilai:83};
+    let p5 = {nama:"Budi", nilai:50};
+
+    let person = [p1,p2,p3,p4,p5];
+</script>
+<h3>
+    <table style="padding: 10; text-align: center; width: 100%;">
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Nama</th>
+                <th>Alamat</th>
+            </tr>
+        </thead>
+        <tbody>
+            <script>
+                var no = 1;
+                for (p of person){
+                   let ket = (p.nilai >= 60)? "Lulus" : "Gagal";
+
+                   //set grade A - E (menggunakan if multi kondisi)
+                   // A = 90 - 100, B 80 - 89 dan seterusnya sampai E
+
+                   //set predikat (menggunakan swtich case)
+
+                   //A = Sangat baik, B = Baik, C = Cukup, D= Kurang, E = SAngat kurang
+                   //set warna warni table menggunakan looping
+                    document.write(`<tr bgcolor="">
+                <td>${no++}</td>
+                <td>${p.nama}</td>
+                <td>${p.nilai}</td>
+                <td>${ket}</td>
+            </tr>`);
+        }
+        </script>
+        </tbody>
+    </table>
+</h3>
